@@ -1,3 +1,8 @@
+<div>
+<h1>Hello World I'm Muhammad Hasnaina</h1>
+<img src="https://avatars3.githubusercontent.com/u/40852016?s=460&u=e648a10386114d19f5342f9edcc264471ec5288f&v=4" alt="Muhammad hasnain"/>
+</div>
+
 ### Hi there 👋
 I am Muhammad Hasnain a Full Stack Developer experienced in many languages and frameworks all for different purposes, from frontend to backend to data science and machine learning. I'm currently working as a Full Stack Developer at AAi. I'm skilled in ReactJS, NodeJS, Python, TensorFlow, RESTful APIs and UI/UX Design among many others. I'm a confident and eager young engineering professional with a Bachelor's in Computer Science (July 2020) from Numl University. Check out some of what I'm up to below:
 
