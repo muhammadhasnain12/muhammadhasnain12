@@ -1,4 +1,4 @@
-<div align="center>
+<div align="center">
 <img src="https://www.htxt.co.za/wp-content/uploads/2019/07/chris-ried-ieic5Tq8YMk-unsplash.jpg" alt="Muhammad hasnain"/>
 </div>
 
