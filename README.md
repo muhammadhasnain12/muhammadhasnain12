@@ -13,5 +13,5 @@ I am Muhammad Hasnain a Full Stack Developer experienced in many languages and f
 - 💬 Ask me about programming Languages, cooking and fitness.
 - 📫 How to reach me: muhammad.hasnain@automotive-ai.com
 - ⚡ Fun fact: i like to read books😄
-- {...<img src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png" alt="Muhammd Hasnain"/>} #SpreadLove
+- {...<img src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png" alt="Muhammd Hasnain" width="10"/>} #SpreadLove
 
