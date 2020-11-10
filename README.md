@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Muhammad Hasnain a Full Stack Developer experienced in many languages and frameworks all for different purposes, from frontend to backend to data science and machine learning. I'm currently working as a Full Stack Developer at AAi. I'm skilled in ReactJS, NodeJS, Python, TensorFlow, RESTful APIs and UI/UX Design among many others. I'm a confident and eager young engineering professional with a Bachelor's in Computer Science (July 2020) from Numl University. Check out some of what I'm up to below:
 
-<!--
-**muhammadhasnain12/muhammadhasnain12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about cooking and fitness.
 - 📫 How to reach me: muhammad.hasnain@automotive-ai.com
 - ⚡ Fun fact: i like to read books😄
--->
+
