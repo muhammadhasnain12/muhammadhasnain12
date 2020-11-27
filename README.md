@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.htxt.co.za/wp-content/uploads/2019/07/chris-ried-ieic5Tq8YMk-unsplash.jpg" alt="Muhammad hasnain" width="100%"/>
+<img src="https://miro.medium.com/max/2079/1*j1pc-U3OlcABlHUk9FAB0w.jpeg" alt="Muhammad hasnain" width="100%"/>
 </div>
 
 ### Hi there 👋
