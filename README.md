@@ -14,6 +14,6 @@ I am Muhammad Hasnain a Full Stack Developer experienced in many languages and f
 - ⚡ Fun fact: i like to read books😄
 - {...<img src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png" alt="Muhammd Hasnain" width="15"/>} #SpreadLove
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?muhammadhasnain12= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhasnain12&theme=radical)
 
 
