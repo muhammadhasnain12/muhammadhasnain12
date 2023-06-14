@@ -17,7 +17,7 @@
 
 ## How to Reach Me
 - 📫 You can reach me via email at hasnainsaleem2233@gmail.com or on Linkedin [linkedin.com/in/muhammadhasnain12](https://linkedin.com/in/muhammadhasnain12).
-- 
+
 ## Open Source Projects
 - [github.com/muhammadhasnain12](https://github.com/muhammadhasnain12/petty-cash-v2)
 - [github.com/muhammadhasnain12/typescript-cli-calc](https://github.com/muhammadhasnain12/typescript-cli-calc)
@@ -26,7 +26,6 @@
 ## Digital Resume
 - [about.me/muhammad-hasnain/getstarted](https://about.me/muhammad-hasnain/getstarted)
 
-- {...<img src="https://github.githubassets.com/images/icons/emoji/unicode/2665.png" alt="Muhammd Hasnain" width="15"/>} #SpreadLove
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadhasnain12&theme=radical)
 
