@@ -13,7 +13,7 @@
 - Languages I've worked with: HTML, CSS (SCSS, LESS), Javascript, PHP, C++, Node.js, Typescript, python
 - Databases: MySQL, MongoDB
 - Frontend CSS/UI libraries: Bootstrap, shadcn UI, Material UI, Tailwind
-- Misc Skills: Docker, GraphQL, Websockets, CI/CD, Blockchain, WebGL, D3, RxJS, NgRx, Redux, Webpack, Redis, AWS, Vercel, Figma, Git
+- Misc Skills: Docker, GraphQL, Websockets, CI/CD, Blockchain, WebGL, D3, ThreeJS, Redux, Webpack, AWS, Vercel, Figma, Git
 
 ## How to Reach Me
 - 📫 You can reach me via email at hasnainsaleem2233@gmail.com or on Linkedin [linkedin.com/in/muhammadhasnain12](https://linkedin.com/in/muhammadhasnain12).
