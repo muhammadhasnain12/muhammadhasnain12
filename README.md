@@ -5,7 +5,7 @@
 
 👨‍💻 Highly skilled frontend developer with 4+ years of experience working in web-related technologies. Proven ability to collaborate with cross-functional teams and deliver high-quality solutions within project deadlines. My extensive expertise in JavaScript, TypeScript, React, Nextjs, Threejs, HTML, CSS, and various other frontend technologies empowers me to develop dynamic user interfaces that deliver exceptional performance and seamless responsiveness.
 
-🚀 I'm currently working as a Senior Software Engineer at TEO-intl. A great achievement at TEO is to redevelop a real-time dashboard using react and web-sockets, in 4 weeks which increased the speed of application by 45%. I'm a confident and eager young engineering professional with a Bachelor's in Computer Science from Numl University.
+🚀 I'm Currently working as a IT Engineer in Manchester UK. A great achievement at TEO is to redevelop a real-time dashboard using react and web-sockets, in 4 weeks which increased the speed of application by 45%. I'm a confident and eager young engineering professional with a Bachelor's in Computer Science from Numl University.
 
 ## Skills
 - Frontend Javascript/Typescript frameworks: React, Threejs, Nextjs
